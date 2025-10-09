@@ -1,4 +1,4 @@
-Video Referenced: https://youtu.be/dBsa39nVcAs
+Video Referenced: https://youtu.be/t_mYSnhKYd0
 
 Gradient Map: (0-0-0)
 
