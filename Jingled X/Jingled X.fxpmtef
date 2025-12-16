@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="no" ?>
+<!-- Effect's Preset File -->
+<Preset Name="" LibraryName="NewBlue Motion Effects" EffectName="Wiggle">
+    <parameter type="2" value="0.200000" />
+    <parameter type="2" value="0.290000" />
+    <parameter type="2" value="1.500000" />
+    <parameter type="2" value="0.000000" />
+    <parameter type="1" value="0" />
+    <parameter type="1" value="0" />
+</Preset>
