@@ -1,8 +1,8 @@
 Video Referenced: https://youtu.be/c1RZD7wN_SY
 
-Ignite Pro: https://jimmyhogs.com/programs/OFX/Ignite_Pro/
+Ignite Pro: https://mega.nz/folder/Jkgm0SyA#z8hkvMMR2nTjK2AhLoQqHg
 
-Dunaj Flip: https://jimmyhogs.com/programs/OFX/Dunaj_Flip/
+Dunaj Flip: https://web.archive.org/web/20211026174536/http://pantarheon.org/Dunaj/
 
 For Non-DirectX effect hosts, it will require HexEd.it to put
 in non-rounded values, which I am not sure on how to use.
